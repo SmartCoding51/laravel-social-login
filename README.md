@@ -20,10 +20,6 @@ Now, we can use gmail smtp server for email confirmation. In case of your gmail,
 ## How to thank me
 * Star this repository
 
-## Contacts
-
-* You can reach the me on `topstar51@outlook.com`
-
 ## License
 
 Socialite is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
